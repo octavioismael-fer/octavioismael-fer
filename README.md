@@ -1,8 +1,8 @@
 <h1 align="center"><b>Hi, I'm <a href="https://www.linkedin.com/in/octavio-ismael-fernandez/" target="blank">
 Octavio</a> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG14OWF6NTQ3b3JkMWwzZ21mdDN4Z2dmZ3h2MDNzMm9udGlmdjFuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NMqjrYAumBg8fNkv3J/giphy.gif">
+<div align="center" >
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG14OWF6NTQ3b3JkMWwzZ21mdDN4Z2dmZ3h2MDNzMm9udGlmdjFuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NMqjrYAumBg8fNkv3J/giphy.gif" width="60%" height="60%" object-fit="contain">
 </div>
 
 <div align="center">
